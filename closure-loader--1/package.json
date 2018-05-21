@@ -1,7 +1,6 @@
 {
   "name": "closure-loader--1",
   "version": "1.0.0",
-  "main": "index.js",
   "author": "MasuqaT <occar@hotmail.co.jp>",
   "license": "MIT",
   "private": true,
