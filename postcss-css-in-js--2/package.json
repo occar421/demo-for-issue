@@ -1,0 +1,22 @@
+{
+  "name": "postcss-css-in-js--2",
+  "version": "1.0.0",
+  "author": "MasuqaT <occar@hotmail.co.jp>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "parcel src/index.html",
+    "process": "node ./run-postcss.js"
+  },
+  "dependencies": {
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "styled-components": "5.1.0"
+  },
+  "devDependencies": {
+    "@stylelint/postcss-css-in-js": "0.37.1",
+    "parcel-bundler": "1.12.4",
+    "postcss": "7.0.28",
+    "postcss-syntax": "0.36.2"
+  }
+}
